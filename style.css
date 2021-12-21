@@ -139,6 +139,9 @@ a:hover{
     transform: scaleX(1.05);
     padding: 80px 40px;
 }
+.pricing-box.featured ul li{
+    color: white;
+}
 .pricing-box.featured a{
     background: #fff;
     color: hsl(237, 63%, 64%);
